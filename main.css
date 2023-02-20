@@ -26,6 +26,6 @@ input{
     margin-bottom: 10px;
     padding: 5px;
 }
-div input [type="submit"] {
-    padding: 0px 100px 0px 100px;
+.submit-button {
+    padding: 5px 100px;
 }
