@@ -1,0 +1,32 @@
+html, p, h1, h2, h3, h4 {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+h1 {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: lighter;
+    margin:25px;
+}
+
+.wholebox {
+    text-align: center;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: lighter;
+    border: 1px solid black;
+    height: 250px;
+    width: 300px;
+    border-radius: 5px;
+    margin: 20% auto 0px auto;
+    
+    
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 5px;
+}
+div input [type="submit"] {
+    padding: 0px 100px 0px 100px;
+    width: 50px;
+}
