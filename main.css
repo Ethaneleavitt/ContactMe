@@ -5,14 +5,14 @@ html, p, h1, h2, h3, h4 {
 }
 h1 {
     font-family: "Fira Sans", sans-serif;
-    font-weight: lighter;
+    font-weight: 500;
     margin:25px;
 }
 
 .wholebox {
     text-align: center;
     font-family: "Fira Sans", sans-serif;
-    font-weight: lighter;
+    font-weight: 300;
     border: 1px solid black;
     height: 250px;
     width: 300px;
@@ -25,6 +25,8 @@ h1 {
 input{
     margin-bottom: 10px;
     padding: 5px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
 }
 .submit-button {
     padding: 5px 100px;
